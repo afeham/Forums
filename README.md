@@ -18,12 +18,7 @@ MCVerge forum layout
   * **Servers**
    * Development Help
    * Server discussion
-* Download
-* GitHub
-* Members
- * Community
- * Staff
-* Wiki
+
 * Profile (Drop Down - not logged in)
  * Login
  * Register
