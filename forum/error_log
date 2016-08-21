@@ -1,0 +1,5 @@
+[22-Nov-2014 06:35:00 Europe/Berlin] PHP Warning:  include(./includes/cssIncludes.php): failed to open stream: No such file or directory in /home/mcdevsn1/public_html/forum/index.php on line 14
+[22-Nov-2014 06:35:00 Europe/Berlin] PHP Warning:  include(./includes/cssIncludes.php): failed to open stream: No such file or directory in /home/mcdevsn1/public_html/forum/index.php on line 14
+[22-Nov-2014 06:35:00 Europe/Berlin] PHP Warning:  include(): Failed opening './includes/cssIncludes.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mcdevsn1/public_html/forum/index.php on line 14
+[13-Dec-2014 00:58:31 Europe/Berlin] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/mcdevsn1/public_html/forum/subforum.php on line 73
+[13-Dec-2014 01:48:01 Europe/Berlin] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/mcdevsn1/public_html/forum/subforum.php on line 93
