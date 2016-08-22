@@ -35,7 +35,43 @@
             <li class="active"><a href="index.php">Forum</a></li>
             <li><a href="index.php">Index</a></li>
         </ol>
-
+        <div class="span6">
+	    <h4>Forums</h4>
+		<ul class="nav nav-list">
+		  <li style="font-size:15px;">Overview</li>
+		  <li class="active" style="text-indent: 7px;"><a href="/forum">Latest Discussions</a></li>
+		  		    			  <li style="font-size:15px;">MCVerge</li><hr>
+			  			    <li style="text-indent: 7px;"><a href="/forum/view_forum/?fid=2">Announcements</a></li>
+			  			    <li style="text-indent: 7px;"><a href="/forum/view_forum/?fid=3">Server Feedback</a></li>
+			  			    <li style="text-indent: 7px;"><a href="/forum/view_forum/?fid=20">Development</a></li>
+			  					  		    			  <li style="font-size:15px;">Community</li><hr>
+			  			    <li style="text-indent: 7px;"><a href="/forum/view_forum/?fid=5">Introductions</a></li>
+			  			    <li style="text-indent: 7px;"><a href="/forum/view_forum/?fid=6">Other Games</a></li>
+			  			    <li style="text-indent: 7px;"><a href="/forum/view_forum/?fid=7">General Discussion</a></li>
+			  			    <li style="text-indent: 7px;"><a href="/forum/view_forum/?fid=8">Gamemodes</a></li>
+			  					  		    			  <li style="font-size:15px;">Maps</li><hr>
+			  			    <li style="text-indent: 7px;"><a href="/forum/view_forum/?fid=12">Map Development</a></li>
+			  			    <li style="text-indent: 7px;"><a href="/forum/view_forum/?fid=13">Map Submissions</a></li>
+			  					  		    			  <li style="font-size:15px;">Events</li><hr>
+			  			    <li style="text-indent: 7px;"><a href="/forum/view_forum/?fid=15">Information</a></li>
+			  			    <li style="text-indent: 7px;"><a href="/forum/view_forum/?fid=16">PVP Strategies</a></li>
+			  					  		    			  <li style="font-size:15px;">Code of Conduct</li><hr>
+			  			    <li style="text-indent: 7px;"><a href="/forum/view_forum/?fid=18">Player Reports</a></li>
+			  			    <li style="text-indent: 7px;"><a href="/forum/view_forum/?fid=19">Player Appeals</a></li>
+			  			    <li style="text-indent: 7px;"><a href="/forum/view_forum/?fid=21">Fractious Staff</a></li>
+			  					  		</ul>
+	  
+	  
+	  
+	  <div class="span4 pull-left">
+	  <h4>Online Users</h4>
+	  There are no users online.
+	  </div>
+<br/>
+	  
+	 
+	  
+	</div>
 
         <div class="panel panel-primary">
             <div class="panel-heading">
