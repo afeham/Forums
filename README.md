@@ -1,3 +1,5 @@
+# Failed
+Failed attempt at writing a forum software for my old server (MCVerge). This was initially created for Cubition: https://github.com/cubitionjava
 # Forums (WIP)
 MCVerge forum layout
 
